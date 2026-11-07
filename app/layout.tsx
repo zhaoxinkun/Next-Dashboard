@@ -1,4 +1,4 @@
-import "@/app/ui/global.css";
+import "@/app/ui/global.css"; //导入全局样式
 import { inter } from "@/app/ui/fonts"; //自定义字体
 
 export default function RootLayout({
